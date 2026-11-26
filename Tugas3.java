@@ -6,6 +6,8 @@ public class Tugas3 {
     }
 
     public static void main(String[] args) {
+        System.out.println("PROGRAM FUNGSI VOIDI DENGAN PARAMETER");
+
         luasPersegiPanjang(5, 6);
     }
 }
