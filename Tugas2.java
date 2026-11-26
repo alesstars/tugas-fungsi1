@@ -4,6 +4,8 @@ public class Tugas2 {
 
     static void luasPersegiPanjang() {
 
+        System.out.println("PROGRAM FUNGSI VOID TANPA PARAMETER");
+
         Scanner sc = new Scanner(System.in);
 
         int p, l;
