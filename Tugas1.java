@@ -5,7 +5,7 @@ public class Tugas1 {
         
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("PROGRAM LUAS PERSEGI PANJANG");
+        System.out.println("PROGRAM FUNGSI BIASA");
 
         int p, l, luas;
 
